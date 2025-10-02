@@ -21,6 +21,7 @@ class MainClass
             {
                 Console.WriteLine("Ошибка! Введите целое число.");
             }
+
         }
     }
 
